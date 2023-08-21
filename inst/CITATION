@@ -1,0 +1,25 @@
+citHeader("To cite treeDbalance in publications use:")
+
+bibentry(
+  bibtype  = "Article",
+  title    = "Measuring 3D tree imbalance of plant models using graph-theoretical approaches",
+  author   = c(person("Mareike","Fischer"),
+               person("Sophie","Kersting"),
+               person("Luise","Kühn")),
+  journal = "arXiv e-prints",
+  archivePrefix = "arXiv",
+  eid     = "arXiv:2307.14537",
+  eprint  = "2307.14537",
+  year    = "2023"
+)
+
+bibentry(
+  bibtype  = "Manual",
+  title    = "treeDbalance: Computation of 3D Tree Imbalance",
+  author   = c(person("Mareike","Fischer"),
+               person("Sophie","Kersting"),
+               person("Luise","Kühn"),
+               person("Jule", "Möller")),
+  year     = "2023"
+)
+
